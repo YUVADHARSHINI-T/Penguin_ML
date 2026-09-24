@@ -19,15 +19,15 @@ The target is to predict the penguin species.
 
 ### Adelie Penguin
 
-<img src="images/ADELIE.JPG" alt="Adelie Penguin" width="250">
+<img src="images/ADELIE.jpg" alt="Adelie Penguin" width="250">
 
 ### Chinstrap Penguin
 
-<img src="images/CHINSTRAP.JPG" alt="Chinstrap Penguin" width="250">
+<img src="images/CHINSTRAP.jpg" alt="Chinstrap Penguin" width="250">
 
 ### Gentoo Penguin
 
-<img src="images/GENTOO.JPG" alt="Gentoo Penguin" width="250">
+<img src="images/GENTOO.jpg" alt="Gentoo Penguin" width="250">
 
 ## TECHNOLOGIES USED
 
