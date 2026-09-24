@@ -15,6 +15,17 @@ The dataset contains penguin measurements such as:
 
 The target is to predict the penguin species.
 
+## PENGUIN SPECIES
+
+### Adelie Penguin
+![Adelie Penguin](images/adelie.jpg)
+
+### Chinstrap Penguin
+![Chinstrap Penguin](images/chinstrap.jpg)
+
+### Gentoo Penguin
+![Gentoo Penguin](images/gentoo.jpg)
+
 ## TECHNOLOGIES USED
 
 * Python
