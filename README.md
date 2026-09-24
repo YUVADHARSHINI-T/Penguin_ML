@@ -18,13 +18,13 @@ The target is to predict the penguin species.
 ## PENGUIN SPECIES
 
 ### Adelie Penguin
-![Adelie Penguin](images/adelie.jpg)
+![Adelie Penguin](image/adelie.jpg)
 
 ### Chinstrap Penguin
-![Chinstrap Penguin](images/chinstrap.jpg)
+![Chinstrap Penguin](image/chinstrap.jpg)
 
 ### Gentoo Penguin
-![Gentoo Penguin](images/gentoo.jpg)
+![Gentoo Penguin](image/gentoo.jpg)
 
 ## TECHNOLOGIES USED
 
